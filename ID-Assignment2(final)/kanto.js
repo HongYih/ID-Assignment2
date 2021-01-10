@@ -1,3 +1,4 @@
+//inspired by: https://codepen.io/jamesqquick/pen/NWKaNQz
 const pokedex = document.getElementById('pokedex');
 const cachedPokemon = {};
 
