@@ -161,7 +161,7 @@ $.ajax({
 
 Email - s10185009@connect.np.edu.sg
 
-Project Link: [https://hongyih.github.io/ID-Assignment2/ID-Assignment2(final)%20(final)/main/index.html](https://github.com/HongYih/ID-Assignment2)
+Project Link: [https://hongyih.github.io/ID-Assignment2/ID-Assignment2(final)%20(final)/main/index.html](https://hongyih.github.io/ID-Assignment2/ID-Assignment2(final)%20(final)/main/index.html)
 
 
 
